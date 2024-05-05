@@ -1,8 +1,10 @@
 # iOS-Api-Fetching
 OpeninApp task
-
-https://github.com/varadkadtan/iOS-Api-Fetching/assets/103556886/2e27b12f-1c30-4139-ad9f-5347985e2d89
 This SwiftUI dashboard project aimed to create a sleek and user-friendly interface for monitoring various metrics. The process involved:
+
+
+https://github.com/varadkadtan/iOS-Api-Fetching/assets/103556886/3ff3654c-77ad-428c-9819-74d77fefec87
+
 
 1. **Conceptualization:** A user-friendly dashboard for tracking data was envisioned.
 2. **Design:** Clean and modern design was prioritized for readability and visual appeal.
